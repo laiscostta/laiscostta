@@ -1,4 +1,4 @@
-## Sejam Bem Vindos!🚫
+## Sejam Bem Vindos!
 
 <!--
 **laiscostta/laiscostta** is a '✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 meu nome é Lais Costa 
 
-- estou estudando na Alura
+- estou estudando no Alura
 - estou me desenvolvendo na linguagem JavaScript
 - ultilizo esse espaço para aminha organização e compartilhamento dos meus projetos desenvolvidos
 

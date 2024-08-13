@@ -1,15 +1,15 @@
 ## sejam bem-vindos!
-<!--
-**laiscostta/laiscostta** is a '✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+meu nome é Lais Costa 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando na Alura
+- estou me desenvolvendo na linguagem JavaScript
+- ultilizo esse espaço para aminha organização e compartilhamento dos meus projetos desenvolvidos
+
+- ### Entre em contato comigo 📬
+
+- 00001132681042@al.educacao.sp.gov.br
+- @_laiiscostta
+
+
+![image](https://github.com/user-attachments/assets/e028d082-b2bd-4da2-abf5-8820acad275b)
